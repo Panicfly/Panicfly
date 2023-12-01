@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my studies
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Godot 4.0
 - 👯 I’m looking to collaborate on the future
 - 🤔 I’m looking for help with making games which i would love
 - 💬 Ask me about anything
